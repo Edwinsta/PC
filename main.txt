@@ -3,7 +3,3 @@ EMM: Prueba
 EMM: Numero
 EMM: Uno
 EMM: GITHUB
-ESA: Prueba
-ESA: Numero
-ESA: DOS
-ESA: EDWIN
